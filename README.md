@@ -19,7 +19,7 @@ We simulate **1000+ stock price paths** using historical daily returns and volat
 
 ### **Key Steps**
 
-1️ Fetch stock data using `yfinance` 📊.\
+1️ Fetch stock data using `yfinance`.\
 2️ Compute **daily returns & volatility**.\
 3️ Run **Monte Carlo simulations** to generate **future price paths**.\
 4️ Analyze **expected stock price, risk & confidence intervals**.\
@@ -42,11 +42,11 @@ We use **Monte Carlo simulations** to find the **best portfolio allocation** of 
 
 ### **Key Steps**
 
-1️⃣ Fetch historical stock data for multiple assets.\
-2️⃣ Compute **expected returns & volatility**.\
-3️⃣ Simulate **10,000+ random portfolios** with different stock weights.\
-4️⃣ Optimize the **Sharpe Ratio** for the best risk-adjusted return.\
-5️⃣ Visualize the **Efficient Frontier** (trade-off between risk & return).
+1️. Fetch historical stock data for multiple assets.\
+2️. Compute **expected returns & volatility**.\
+3️. Simulate **10,000+ random portfolios** with different stock weights.\
+4️. Optimize the **Sharpe Ratio** for the best risk-adjusted return.\
+5️. Visualize the **Efficient Frontier** (trade-off between risk & return).
 
 ### **Optimal Portfolio Weights (Example Output)**
 
