@@ -1,4 +1,4 @@
-#Monte Carlo Stock Price Simulation & Portfolio Optimization
+# Monte Carlo Stock Price Simulation & Portfolio Optimization
 
 ## **Overview**
 
