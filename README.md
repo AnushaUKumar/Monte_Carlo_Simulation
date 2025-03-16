@@ -1,4 +1,4 @@
-# 📈 Monte Carlo Stock Price Simulation & Portfolio Optimization
+#Monte Carlo Stock Price Simulation & Portfolio Optimization
 
 ## **Overview**
 
@@ -105,12 +105,4 @@ Potential Improvements:
 
 ---
 
-## **Author**
-
-📌 **Your Name**\
-📧 [your.email@example.com](mailto\:your.email@example.com)\
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)\
-🔗 [GitHub](https://github.com/yourusername)
-
----
 
